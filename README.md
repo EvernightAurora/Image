@@ -2,4 +2,4 @@
 
 # ~~大丈夫だ，問题ない~~
 
-# [返回洛谷](www.luogu.org/space/show?uid=25508)
+# [返回洛谷](http://www.luogu.org/space/show?uid=25508)
