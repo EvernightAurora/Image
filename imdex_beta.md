@@ -13,7 +13,7 @@
 ---
 # 其他
 
-![](https://github.com/EvernightAurora/Image/blob/master/其他/39ce90b486564f4e/Les.jpg)
-![](https://raw.githubusercontent.com/EvernightAurora/Image/master/其它/IM-20180420102321/Les.JPG)
+![](https://raw.githubusercontent.com/EvernightAurora/Image/master/其他/39ce90b486564f4e/Les.jpg)
+![](https://raw.githubusercontent.com/EvernightAurora/Image/master/其他/IM-20180420102321/Les.JPG)
 
 ---
