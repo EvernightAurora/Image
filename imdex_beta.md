@@ -2,8 +2,8 @@
 
 # P站
 
-[LN↗](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=66413589)
-![](https://raw.githubusercontent.com/EvernightAurora/Image/master/P站/64729991/Les.jpg)
+[
+![](https://raw.githubusercontent.com/EvernightAurora/Image/master/P站/64729991/Les.jpg)](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=66413589)
 ![](https://raw.githubusercontent.com/EvernightAurora/Image/master/P站/65296146/Les.jpg)
 ![](https://raw.githubusercontent.com/EvernightAurora/Image/master/P站/68198008/Les.jpg)
 ![](https://raw.githubusercontent.com/EvernightAurora/Image/master/P站/68263033/Les.jpg)
